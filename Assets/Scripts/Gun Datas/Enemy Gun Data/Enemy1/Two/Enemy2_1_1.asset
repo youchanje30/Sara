@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f9dfb2302b49c948a777428718f9218, type: 3}
+  m_Name: Enemy2_1_1
+  m_EditorClassIdentifier: 
+  _damage: 2
+  _reshootCoolDown: 4
+  _shootForce: 6
+  _fixAngle: 0
+  _bullet:
+  - {fileID: 4568750582543743551, guid: afc2f43248db6f645b213cffb87d6ce5, type: 3}
